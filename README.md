@@ -1,1 +1,1 @@
-# Web-application-optimization
+# Оптимизация веб-приложений
